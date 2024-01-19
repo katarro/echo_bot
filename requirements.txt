@@ -4,3 +4,4 @@ python-dotenv
 botbuilder-core
 botbuilder-schema
 convertapi
+flask
