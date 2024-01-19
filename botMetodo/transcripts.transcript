@@ -1,0 +1,80 @@
+[
+  {
+    "type": "conversationUpdate",
+    "membersAdded": [
+      {
+        "id": "3facbf00-b662-11ee-b553-eb088dc3a5c6",
+        "name": "Bot"
+      }
+    ],
+    "channelId": "emulator",
+    "conversation": {
+      "id": "3fb23d40-b662-11ee-b553-eb088dc3a5c6|livechat"
+    },
+    "id": "3fb39cd1-b662-11ee-94a1-690c07e71a1a",
+    "localTimestamp": "2024-01-18T21:32:38-03:00",
+    "recipient": {
+      "id": "3facbf00-b662-11ee-b553-eb088dc3a5c6",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "timestamp": "2024-01-19T00:32:38.685Z",
+    "from": {
+      "id": "a6b00a50-16af-4401-98e0-beaad6ed236b",
+      "name": "User"
+    },
+    "locale": "en-US",
+    "serviceUrl": "http://localhost:37901"
+  },
+  {
+    "type": "conversationUpdate",
+    "membersAdded": [
+      {
+        "id": "a6b00a50-16af-4401-98e0-beaad6ed236b",
+        "name": "User"
+      }
+    ],
+    "channelId": "emulator",
+    "conversation": {
+      "id": "3fb23d40-b662-11ee-b553-eb088dc3a5c6|livechat"
+    },
+    "id": "3fb39cd2-b662-11ee-94a1-690c07e71a1a",
+    "localTimestamp": "2024-01-18T21:32:38-03:00",
+    "recipient": {
+      "id": "3facbf00-b662-11ee-b553-eb088dc3a5c6",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "timestamp": "2024-01-19T00:32:38.685Z",
+    "from": {
+      "id": "a6b00a50-16af-4401-98e0-beaad6ed236b",
+      "name": "User"
+    },
+    "locale": "en-US",
+    "serviceUrl": "http://localhost:37901"
+  },
+  {
+    "type": "message",
+    "serviceUrl": "http://localhost:37901",
+    "channelId": "emulator",
+    "from": {
+      "id": "3facbf00-b662-11ee-b553-eb088dc3a5c6",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "conversation": {
+      "id": "3fb23d40-b662-11ee-b553-eb088dc3a5c6|livechat"
+    },
+    "recipient": {
+      "id": "a6b00a50-16af-4401-98e0-beaad6ed236b",
+      "role": "user"
+    },
+    "locale": "en-US",
+    "text": "Bienvenido, enviame un archivo .csv.",
+    "inputHint": "acceptingInput",
+    "replyToId": "3fb39cd2-b662-11ee-94a1-690c07e71a1a",
+    "id": "3fb94220-b662-11ee-94a1-690c07e71a1a",
+    "localTimestamp": "2024-01-18T21:32:38-03:00",
+    "timestamp": "2024-01-19T00:32:38.722Z"
+  }
+]
